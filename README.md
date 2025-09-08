@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Pooji Poojitha</h1>
+<h1 align="center">Hi 👋, I'm Poojitha</h1>
 <h3 align="center">B.Tech Student | Aspiring Software Developer | ServiceNow Enthusiast</h3>
 
 ---
