@@ -9,7 +9,7 @@
 - 💻 Skilled in **Java, Python, HTML, CSS, JavaScript, MySQL**
 - 🌱 Exploring **ServiceNow & Full-Stack Development**
 - 🚀 Passionate about building projects that solve real-world problems
-- 📫 Reach me at **your-email@example.com**  
+- 📫 Reach me at **peravalipoojitha1@gmail.com**  
 
 ---
 
