@@ -25,7 +25,7 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poojitha3371&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poojitha3371&show_icons=true&theme=radical&hide=prs,contribs) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Poojitha3371&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Poojitha3371&layout=compact&theme=radical)
 
@@ -44,6 +44,3 @@
   <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
 </a>
 
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Poojitha&color=blue&style=flat-square&label=Profile+Views)
